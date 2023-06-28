@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 12:22:52 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstTestArticles</title>
+      <link>/post/firsttestarticles/</link>
+      <pubDate>Wed, 28 Jun 2023 12:22:52 +0800</pubDate>
+      
+      <guid>/post/firsttestarticles/</guid>
+      <description>
+        
+          
+            这是一个测试博客 问题：课堂派的安装包内有我们需要的theme主题文件，但内部有mac电脑使用的主题文件和Windows电脑使用的主题文件在使用的时候要注意。 解决：将mac版本的文件去除，只保留windows版本的文件夹即可 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
